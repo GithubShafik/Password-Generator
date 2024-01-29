@@ -1,0 +1,25 @@
+body {
+  background: rgb(136, 50, 195);
+  background: linear-gradient(90deg, rgba(136, 50, 195, 1) 14%, rgba(13, 183, 215, 1) 50%, rgba(93, 69, 252, 1) 86%);
+
+  text-align: center;
+
+}
+
+.box1 {
+  background-color: rgba(0, 0, 0, 0.319);
+  border-radius: 20px;
+}
+
+.main {
+  margin: 200px auto;
+}
+
+.checkbox {
+  padding: 5px;
+  width: fit-content;
+}
+
+.checkbox input {
+  margin-left: 15px;
+}
